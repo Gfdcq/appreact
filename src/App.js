@@ -1,7 +1,10 @@
+import Botao from "./components/Botao";
+import Formulario from "./components/formulario";
+
 function App() {
   return (
     <div className="App">
-     <h1>Hello Leo</h1>
+     <Formulario/>
     </div>
   );
 }
